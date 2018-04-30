@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="22px" viewBox="0 0 21 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Input/Slider/Default Thumb</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="21" height="21" rx="3"></rect>
+        <filter x="-2.4%" y="-2.4%" width="104.8%" height="109.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="layouts" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ESP-Sandbox-(with-Smart-Schematic)" transform="translate(-235.000000, -942.000000)">
+            <g id="sliders-01" transform="translate(154.000000, 640.000000)">
+                <g id="surface-flowrate" transform="translate(0.000000, 0.500000)">
+                    <g id="playhead" transform="translate(91.500000, 312.000000) rotate(-270.000000) translate(-91.500000, -312.000000) translate(81.000000, 301.500000)">
+                        <g id="Input/Slider/Default-Thumb">
+                            <g id="shape---$gray5-border" transform="translate(10.500000, 10.500000) rotate(-90.000000) translate(-10.500000, -10.500000) ">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                <rect stroke="#000000" stroke-width="1" x="0.5" y="0.5" width="20" height="20" rx="3"></rect>
+                            </g>
+                            <g id="3-lines" transform="translate(7.000000, 7.000000)" fill="#3A6988">
+                                <rect id="Rectangle-2" x="6" y="0" width="1" height="7"></rect>
+                                <rect id="Rectangle-2" x="3" y="0" width="1" height="7"></rect>
+                                <rect id="Rectangle-2" x="0" y="0" width="1" height="7"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

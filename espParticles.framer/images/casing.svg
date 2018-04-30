@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="98px" height="1091px" viewBox="0 0 98 1091" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>casing</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="esp" transform="translate(1.000000, 1.000000)" stroke="#425866" stroke-width="2">
+            <g id="casing" transform="translate(0.869904, 0.779035)">
+                <path d="M94.7269849,1064.51348 L94.7269849,22.5166413 C94.7269849,35.5937015 73.517613,46.1983875 47.3634925,46.1983875 C21.2093719,46.1983875 0,35.5937015 0,22.5166413 L0,1064.51348 C0,1051.43168 21.2093719,1040.83173 47.3634925,1040.83173 C73.517613,1040.83173 94.7269849,1051.43168 94.7269849,1064.51348" id="fill"></path>
+                <path d="M94.7269849,23.7007286 C94.7269849,10.6236683 73.517613,0.0189823371 47.3634925,0.0189823371 C21.2093719,0.0189823371 0,10.6236683 0,23.7007286" id="Stroke-9"></path>
+                <path d="M94.7269849,1064.01348 C94.7269849,1077.09527 73.517613,1087.69522 47.3634925,1087.69522 C21.2093719,1087.69522 0,1077.09527 0,1064.01348" id="Stroke-11"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1225px" height="1260px" viewBox="0 0 1225 1260" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>ESP Sandbox (with Smart Schematic)</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="238" width="1225" height="385"></rect>
+        <filter x="-0.3%" y="-3.1%" width="100.7%" height="104.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="-8" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.226154494   0 0 0 0 0.412167856   0 0 0 0 0.534545068  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="10.4101562" y="0.5" width="53" height="30" rx="4"></rect>
+        <path d="M10.7050781,21.1013125 C16.504068,21.1013125 21.2050781,16.4003024 21.2050781,10.6013125 C21.2050781,4.80232263 16.504068,0.1013125 10.7050781,0.1013125 C4.90608825,0.1013125 0.205078125,4.80232263 0.205078125,10.6013125 C0.205078125,16.4003024 4.90608825,21.1013125 10.7050781,21.1013125 Z" id="path-4"></path>
+        <rect id="path-5" x="0.41015625" y="0.5" width="53" height="30" rx="4"></rect>
+        <path d="M10.7050781,21.1013125 C16.504068,21.1013125 21.2050781,16.4003024 21.2050781,10.6013125 C21.2050781,4.80232263 16.504068,0.1013125 10.7050781,0.1013125 C4.90608825,0.1013125 0.205078125,4.80232263 0.205078125,10.6013125 C0.205078125,16.4003024 4.90608825,21.1013125 10.7050781,21.1013125 Z" id="path-6"></path>
+        <ellipse id="path-7" cx="48.7658321" cy="853.552106" rx="48.7658321" ry="18.5441766"></ellipse>
+        <path d="M150.571429,19.688 C150.571429,19.83309 150.518416,19.9586468 150.412388,20.0646741 L146.662388,23.8146741 C146.556361,23.9207014 146.430804,23.9737143 146.285714,23.9737143 C146.140624,23.9737143 146.015067,23.9207014 145.90904,23.8146741 L142.15904,20.0646741 C142.053013,19.9586468 142,19.83309 142,19.688 C142,19.54291 142.053013,19.4173532 142.15904,19.3113259 C142.265067,19.2052986 142.390624,19.1522857 142.535714,19.1522857 L150.035714,19.1522857 C150.180804,19.1522857 150.306361,19.2052986 150.412388,19.3113259 C150.518416,19.4173532 150.571429,19.54291 150.571429,19.688 Z" id="path-8"></path>
+    </defs>
+    <g id="layouts" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ESP-Sandbox-(with-Smart-Schematic)">
+            <g id="footer-save" transform="translate(0.000000, 1035.000000)">
+                <g id="save" transform="translate(1104.000000, 18.500000)">
+                    <rect id="Rectangle-6" fill="#0091BF" x="0.979682167" y="0.11328125" width="90" height="20" rx="10"></rect>
+                    <text id="SAVE" font-family="GEInspiraSans-Bold, GE Inspira Sans" font-size="12" font-weight="bold" line-spacing="16" fill="#FFFFFF">
+                        <tspan x="31.5196822" y="12.1132812">SAVE</tspan>
+                    </text>
+                </g>
+                <g id="scroll-right" transform="translate(1071.000000, 13.500000)" stroke="#2E546D" stroke-linecap="square">
+                    <path d="M1,0 L1,30" id="Line-2-Copy"></path>
+                </g>
+            </g>
+            <g id="VU-bkgd">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <g id="sliders-01" transform="translate(154.000000, 640.000000)">
+                <g id="bottomhole-pressure" transform="translate(144.000000, 0.500000)">
+                    <g id="input-and-refresh" transform="translate(49.000000, 408.000000)">
+                        <g id="Rectangle-2">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                            <rect stroke="#46A5FF" stroke-width="1" x="10.9101562" y="1" width="52" height="29" rx="4"></rect>
+                        </g>
+                        <text id="psig" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="14" font-weight="normal" fill="#25515C">
+                            <tspan x="69.4101562" y="19.937">psig</tspan>
+                        </text>
+                        <g id="btn-icon/small" transform="translate(103.527344, 4.797375)">
+                            <g id="Oval">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                                <path stroke="#748B99" stroke-width="1" d="M10.7050781,20.6013125 C16.2279256,20.6013125 20.7050781,16.12416 20.7050781,10.6013125 C20.7050781,5.078465 16.2279256,0.6013125 10.7050781,0.6013125 C5.18223063,0.6013125 0.705078125,5.078465 0.705078125,10.6013125 C0.705078125,16.12416 5.18223063,20.6013125 10.7050781,20.6013125 Z"></path>
+                            </g>
+                            <path d="M14.8512835,11.4227411 C14.8512835,11.4413424 14.8494234,11.4543631 14.8457031,11.4618036 C14.6076067,12.4588324 14.1090998,13.267046 13.3501674,13.8864687 C12.591235,14.5058915 11.702107,14.8155982 10.6827567,14.8155982 C10.1395992,14.8155982 9.61412084,14.7132927 9.1063058,14.5086786 C8.59849076,14.3040645 8.14555631,14.0120287 7.74748884,13.6325625 L7.02762277,14.3524286 C6.95693789,14.4231134 6.87323337,14.4584554 6.7765067,14.4584554 C6.67978002,14.4584554 6.5960755,14.4231134 6.52539063,14.3524286 C6.45470575,14.2817437 6.41936384,14.1980392 6.41936384,14.1013125 L6.41936384,11.6013125 C6.41936384,11.5045858 6.45470575,11.4208813 6.52539063,11.3501964 C6.5960755,11.2795116 6.67978002,11.2441696 6.7765067,11.2441696 L9.2765067,11.2441696 C9.37323337,11.2441696 9.45693789,11.2795116 9.52762277,11.3501964 C9.59830765,11.4208813 9.63364955,11.5045858 9.63364955,11.6013125 C9.63364955,11.6980392 9.59830765,11.7817437 9.52762277,11.8524286 L8.76311384,12.6169375 C9.02725206,12.8624744 9.32672824,13.0522047 9.66155134,13.1861339 C9.99637444,13.3200632 10.3442132,13.3870268 10.7050781,13.3870268 C11.2035925,13.3870268 11.6686176,13.2661203 12.1001674,13.0243036 C12.5317172,12.7824869 12.8776959,12.4495289 13.1381138,12.0254196 C13.1790367,11.9621753 13.277622,11.7445435 13.4338728,11.3725179 C13.4636348,11.286952 13.5194378,11.2441696 13.6012835,11.2441696 L14.6727121,11.2441696 C14.7210754,11.2441696 14.7629277,11.2618406 14.7982701,11.297183 C14.8336125,11.3325255 14.8512835,11.3743777 14.8512835,11.4227411 Z M14.9907924,6.95845536 L14.9907924,9.45845536 C14.9907924,9.55518203 14.9554505,9.63888655 14.8847656,9.70957143 C14.8140807,9.78025631 14.7303762,9.81559821 14.6336496,9.81559821 L12.1336496,9.81559821 C12.0369229,9.81559821 11.9532184,9.78025631 11.8825335,9.70957143 C11.8118486,9.63888655 11.7765067,9.55518203 11.7765067,9.45845536 C11.7765067,9.36172868 11.8118486,9.27802416 11.8825335,9.20733929 L12.6526228,8.43725 C12.1020248,7.92757483 11.4528497,7.67274107 10.7050781,7.67274107 C10.2065637,7.67274107 9.74153862,7.7936476 9.30998884,8.03546429 C8.87843906,8.27728097 8.53246038,8.61023895 8.27204241,9.03434821 C8.23111959,9.09759258 8.13253426,9.31522433 7.97628348,9.68725 C7.94652143,9.7728159 7.89071842,9.81559821 7.80887277,9.81559821 L6.6983817,9.81559821 C6.65001836,9.81559821 6.6081661,9.79792726 6.57282366,9.76258482 C6.53748122,9.72724238 6.51981027,9.68539012 6.51981027,9.63702679 L6.51981027,9.59796429 C6.76162695,8.60093549 7.26385407,7.79272185 8.0265067,7.17329911 C8.78915932,6.55387637 9.68200753,6.24416964 10.7050781,6.24416964 C11.2482356,6.24416964 11.7765041,6.34740522 12.2898996,6.55387946 C12.803295,6.76035371 13.2590196,7.05145943 13.6570871,7.42720536 L14.3825335,6.70733929 C14.4532184,6.63665441 14.5369229,6.6013125 14.6336496,6.6013125 C14.7303762,6.6013125 14.8140807,6.63665441 14.8847656,6.70733929 C14.9554505,6.77802416 14.9907924,6.86172868 14.9907924,6.95845536 Z" id="FONT-AWESOME" fill="#748B99"></path>
+                        </g>
+                    </g>
+                    <g id="track" transform="translate(27.000000, 55.000000)">
+                        <g id="marks" font-size="12" font-family="GEInspiraSans-Regular, GE Inspira Sans" fill="#4A4A4A" font-weight="normal">
+                            <text id="0">
+                                <tspan x="36.616" y="320">0</tspan>
+                            </text>
+                            <text id="7.5k">
+                                <tspan x="22.1113437" y="168.615234">7.5k</tspan>
+                            </text>
+                            <text id="15k">
+                                <tspan x="24.5113437" y="9.446">15k</tspan>
+                            </text>
+                        </g>
+                        <path d="M49.5,164.5 L59.5,164.5" id="Line-4-Copy-2" stroke="#4A4A4A" stroke-linecap="square"></path>
+                        <path d="M48,323 L59,323" id="Line-4-Copy" stroke="#2E546D" stroke-width="2" stroke-linecap="square"></path>
+                        <path d="M48,6.5 L63,6.5" id="Line-4-Copy-4" stroke="#2E546D" stroke-width="2" stroke-linecap="square"></path>
+                        <rect id="Rectangle-11" fill="#2E546D" x="58.9726562" y="5.5" width="8" height="318.5"></rect>
+                    </g>
+                    <g id="playhead" transform="translate(89.527344, 331.297375) rotate(-270.000000) translate(-89.527344, -331.297375) translate(79.027344, 320.797375)"></g>
+                    <g id="attribute" font-size="12">
+                        <text id="Latest:-1260-psig" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-weight="normal" fill="#4A4A4A">
+                            <tspan x="44.6753437" y="27.734375">Latest: 1260 psig</tspan>
+                        </text>
+                        <text id="Bottomhole-Pressure" font-family="GEInspiraSans-Bold, GE Inspira Sans" font-weight="bold" fill="#000000">
+                            <tspan x="29.3993437" y="11.734375">Bottomhole Pressure</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="surface-flowrate" transform="translate(0.000000, 0.500000)">
+                    <g id="track" transform="translate(29.000000, 55.000000)">
+                        <g id="marks" font-size="12" font-family="GEInspiraSans-Regular, GE Inspira Sans" fill="#4A4A4A" font-weight="normal">
+                            <text id="0">
+                                <tspan x="36.616" y="320">0</tspan>
+                            </text>
+                            <text id="12.5k">
+                                <tspan x="15.7273437" y="168.615234">12.5k</tspan>
+                            </text>
+                            <text id="25k">
+                                <tspan x="24.5113437" y="9.446">25k</tspan>
+                            </text>
+                        </g>
+                        <path d="M49.5,164.5 L59.5,164.5" id="Line-4-Copy-2" stroke="#4A4A4A" stroke-linecap="square"></path>
+                        <path d="M48,323 L59,323" id="Line-4-Copy" stroke="#2E546D" stroke-width="2" stroke-linecap="square"></path>
+                        <path d="M48,6.5 L63,6.5" id="Line-4-Copy-4" stroke="#2E546D" stroke-width="2" stroke-linecap="square"></path>
+                        <rect id="Rectangle-11" fill="#2E546D" x="58.9726562" y="5.5" width="8" height="318.5"></rect>
+                    </g>
+                    <g id="input-and-refresh" transform="translate(49.000000, 408.000000)">
+                        <g id="Rectangle-2">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                            <rect stroke="#46A5FF" stroke-width="1" x="0.91015625" y="1" width="52" height="29" rx="4"></rect>
+                        </g>
+                        <text id="stb/d" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="14" font-weight="normal" fill="#425866">
+                            <tspan x="59.4101562" y="19.937">stb/d</tspan>
+                        </text>
+                        <g id="btn-icon/small" transform="translate(98.527344, 4.797375)">
+                            <g id="Oval">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-6"></use>
+                                <path stroke="#748B99" stroke-width="1" d="M10.7050781,20.6013125 C16.2279256,20.6013125 20.7050781,16.12416 20.7050781,10.6013125 C20.7050781,5.078465 16.2279256,0.6013125 10.7050781,0.6013125 C5.18223063,0.6013125 0.705078125,5.078465 0.705078125,10.6013125 C0.705078125,16.12416 5.18223063,20.6013125 10.7050781,20.6013125 Z"></path>
+                            </g>
+                            <path d="M14.8512835,11.4227411 C14.8512835,11.4413424 14.8494234,11.4543631 14.8457031,11.4618036 C14.6076067,12.4588324 14.1090998,13.267046 13.3501674,13.8864687 C12.591235,14.5058915 11.702107,14.8155982 10.6827567,14.8155982 C10.1395992,14.8155982 9.61412084,14.7132927 9.1063058,14.5086786 C8.59849076,14.3040645 8.14555631,14.0120287 7.74748884,13.6325625 L7.02762277,14.3524286 C6.95693789,14.4231134 6.87323337,14.4584554 6.7765067,14.4584554 C6.67978002,14.4584554 6.5960755,14.4231134 6.52539063,14.3524286 C6.45470575,14.2817437 6.41936384,14.1980392 6.41936384,14.1013125 L6.41936384,11.6013125 C6.41936384,11.5045858 6.45470575,11.4208813 6.52539063,11.3501964 C6.5960755,11.2795116 6.67978002,11.2441696 6.7765067,11.2441696 L9.2765067,11.2441696 C9.37323337,11.2441696 9.45693789,11.2795116 9.52762277,11.3501964 C9.59830765,11.4208813 9.63364955,11.5045858 9.63364955,11.6013125 C9.63364955,11.6980392 9.59830765,11.7817437 9.52762277,11.8524286 L8.76311384,12.6169375 C9.02725206,12.8624744 9.32672824,13.0522047 9.66155134,13.1861339 C9.99637444,13.3200632 10.3442132,13.3870268 10.7050781,13.3870268 C11.2035925,13.3870268 11.6686176,13.2661203 12.1001674,13.0243036 C12.5317172,12.7824869 12.8776959,12.4495289 13.1381138,12.0254196 C13.1790367,11.9621753 13.277622,11.7445435 13.4338728,11.3725179 C13.4636348,11.286952 13.5194378,11.2441696 13.6012835,11.2441696 L14.6727121,11.2441696 C14.7210754,11.2441696 14.7629277,11.2618406 14.7982701,11.297183 C14.8336125,11.3325255 14.8512835,11.3743777 14.8512835,11.4227411 Z M14.9907924,6.95845536 L14.9907924,9.45845536 C14.9907924,9.55518203 14.9554505,9.63888655 14.8847656,9.70957143 C14.8140807,9.78025631 14.7303762,9.81559821 14.6336496,9.81559821 L12.1336496,9.81559821 C12.0369229,9.81559821 11.9532184,9.78025631 11.8825335,9.70957143 C11.8118486,9.63888655 11.7765067,9.55518203 11.7765067,9.45845536 C11.7765067,9.36172868 11.8118486,9.27802416 11.8825335,9.20733929 L12.6526228,8.43725 C12.1020248,7.92757483 11.4528497,7.67274107 10.7050781,7.67274107 C10.2065637,7.67274107 9.74153862,7.7936476 9.30998884,8.03546429 C8.87843906,8.27728097 8.53246038,8.61023895 8.27204241,9.03434821 C8.23111959,9.09759258 8.13253426,9.31522433 7.97628348,9.68725 C7.94652143,9.7728159 7.89071842,9.81559821 7.80887277,9.81559821 L6.6983817,9.81559821 C6.65001836,9.81559821 6.6081661,9.79792726 6.57282366,9.76258482 C6.53748122,9.72724238 6.51981027,9.68539012 6.51981027,9.63702679 L6.51981027,9.59796429 C6.76162695,8.60093549 7.26385407,7.79272185 8.0265067,7.17329911 C8.78915932,6.55387637 9.68200753,6.24416964 10.7050781,6.24416964 C11.2482356,6.24416964 11.7765041,6.34740522 12.2898996,6.55387946 C12.803295,6.76035371 13.2590196,7.05145943 13.6570871,7.42720536 L14.3825335,6.70733929 C14.4532184,6.63665441 14.5369229,6.6013125 14.6336496,6.6013125 C14.7303762,6.6013125 14.8140807,6.63665441 14.8847656,6.70733929 C14.9554505,6.77802416 14.9907924,6.86172868 14.9907924,6.95845536 Z" id="FONT-AWESOME" fill="#748B99"></path>
+                        </g>
+                    </g>
+                    <g id="attribute" font-size="12">
+                        <text id="Latest:-1653-stb/d" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-weight="normal" fill="#4A4A4A">
+                            <tspan x="41.8193438" y="27.734375">Latest: 1653 stb/d</tspan>
+                        </text>
+                        <text id="Surface-Flowrate" font-family="GEInspiraSans-Bold, GE Inspira Sans" font-weight="bold" fill="#000000">
+                            <tspan x="40.7033437" y="11.734375">Surface Flowrate</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="intake-pressure" transform="translate(721.294922, 0.005859)">
+                    <g id="attribute" transform="translate(0.000000, 0.500000)" font-size="12">
+                        <text id="Latest:-54.5-Hz" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-weight="normal" fill="#4A4A4A">
+                            <tspan x="50.2013437" y="27.734375">Latest: 54.5 Hz</tspan>
+                        </text>
+                        <text id="Intake-Pressure" font-family="GEInspiraSans-Bold, GE Inspira Sans" font-weight="bold" fill="#000000">
+                            <tspan x="44.7893438" y="11.734375">Intake Pressure</tspan>
+                        </text>
+                    </g>
+                    <g id="track-copy-2" transform="translate(37.000000, 56.000000)">
+                        <g id="marks">
+                            <path d="M47.5273438,161 L57.5273438,161" id="Line-4-Copy-2" stroke="#4A4A4A" stroke-linecap="square"></path>
+                            <path d="M48.0273438,322.5 L59.0273438,322.5" id="Line-4-Copy" stroke="#7ABA00" stroke-width="2" stroke-linecap="square"></path>
+                            <path d="M48.0273438,6 L59.0273438,6" id="Line-4-Copy-4" stroke="#DE5354" stroke-width="2" stroke-linecap="square"></path>
+                            <text id="0" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="12" font-weight="normal" fill="#000000">
+                                <tspan x="36.6433437" y="319.446">0</tspan>
+                            </text>
+                            <text id="7.5-k" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="12" font-weight="normal" fill="#000000">
+                                <tspan x="19.5313437" y="164.115234">7.5 k</tspan>
+                            </text>
+                            <text id="15-k" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="12" font-weight="normal" fill="#000000">
+                                <tspan x="21.9313437" y="9.446">15 k</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <rect id="Rectangle-10-Copy-6" fill="#FFC107" x="93" y="166" width="8" height="69"></rect>
+                    <rect id="Rectangle-10-Copy-7" fill="#DE5354" x="93" y="61" width="8" height="105"></rect>
+                    <rect id="Rectangle-10-Copy-8" fill="#7ABA00" x="93" y="235" width="8" height="144.5"></rect>
+                </g>
+                <g id="well-head-pressure" transform="translate(578.294922, 0.005859)">
+                    <g id="attribute" transform="translate(0.666667, 0.500000)" font-size="12">
+                        <text id="Latest:-468-psig" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-weight="normal" fill="#4A4A4A">
+                            <tspan x="47.8673437" y="27.734375">Latest: 468 psig</tspan>
+                        </text>
+                        <text id="Well-Head-Pressure" font-family="GEInspiraSans-Bold, GE Inspira Sans" font-weight="bold" fill="#000000">
+                            <tspan x="34.4513437" y="11.734375">Well Head Pressure</tspan>
+                        </text>
+                    </g>
+                    <g id="track-copy" transform="translate(34.000000, 56.000000)">
+                        <g id="marks">
+                            <path d="M47.5273438,161 L57.5273438,161" id="Line-4-Copy-2" stroke="#4A4A4A" stroke-linecap="square"></path>
+                            <path d="M48.0273438,322.5 L59.0273438,322.5" id="Line-4-Copy" stroke="#7ABA00" stroke-width="2" stroke-linecap="square"></path>
+                            <path d="M48.0273438,6 L59.0273438,6" id="Line-4-Copy-4" stroke="#DE5354" stroke-width="2" stroke-linecap="square"></path>
+                            <text id="0" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="12" font-weight="normal" fill="#000000">
+                                <tspan x="36.6433437" y="319.446">0</tspan>
+                            </text>
+                            <text id="2.5-k" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="12" font-weight="normal" fill="#000000">
+                                <tspan x="19.5313437" y="164.115234">2.5 k</tspan>
+                            </text>
+                            <text id="5-k" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="12" font-weight="normal" fill="#000000">
+                                <tspan x="28.3153438" y="9.446">5 k</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <rect id="Rectangle-10-Copy-3" fill="#FFC107" x="90" y="166" width="8" height="69"></rect>
+                    <rect id="Rectangle-10-Copy-4" fill="#DE5354" x="90" y="61" width="8" height="105"></rect>
+                    <rect id="Rectangle-10-Copy-5" fill="#7ABA00" x="90" y="232.475586" width="8" height="147.024414"></rect>
+                </g>
+                <g id="motor-temperature" transform="translate(435.294922, 0.005859)">
+                    <g id="track" transform="translate(33.000000, 56.000000)">
+                        <g id="marks">
+                            <path d="M47.5273438,161 L57.5273438,161" id="Line-4-Copy-2" stroke="#4A4A4A" stroke-linecap="square"></path>
+                            <path d="M48.0273438,322.5 L59.0273438,322.5" id="Line-4-Copy" stroke="#7ABA00" stroke-width="2" stroke-linecap="square"></path>
+                            <path d="M48.0273438,6 L59.0273438,6" id="Line-4-Copy-4" stroke="#DE5354" stroke-width="2" stroke-linecap="square"></path>
+                            <text id="0" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="12" font-weight="normal" fill="#000000">
+                                <tspan x="36.6433437" y="319.446">0</tspan>
+                            </text>
+                            <text id="250" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="12" font-weight="normal" fill="#000000">
+                                <tspan x="23.8753437" y="164.115234">250</tspan>
+                            </text>
+                            <text id="500" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="12" font-weight="normal" fill="#000000">
+                                <tspan x="23.8753437" y="9.446">500</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="attribute" transform="translate(0.333333, 0.500000)" font-size="12">
+                        <text id="Latest:-219°-F" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-weight="normal" fill="#4A4A4A">
+                            <tspan x="52.9133438" y="27.734375">Latest: 219° F</tspan>
+                        </text>
+                        <text id="Motor-Temperature" font-family="GEInspiraSans-Bold, GE Inspira Sans" font-weight="bold" fill="#000000">
+                            <tspan x="33.9953438" y="11.734375">Motor Temperature</tspan>
+                        </text>
+                    </g>
+                    <rect id="Rectangle-10" fill="#FFC107" x="89" y="166" width="8" height="69"></rect>
+                    <rect id="Rectangle-10-Copy-2" fill="#DE5354" x="89" y="61" width="8" height="105"></rect>
+                    <rect id="Rectangle-10-Copy" fill="#7ABA00" x="89" y="235" width="8" height="144.5"></rect>
+                </g>
+                <g id="frequency" transform="translate(294.294922, 1.005859)">
+                    <g id="marks" transform="translate(29.000000, 54.500000)">
+                        <path d="M47.5273438,161.5 L57.5273438,161.5" id="Line-4-Copy-2" stroke="#4A4A4A" stroke-linecap="square"></path>
+                        <path d="M48,323 L59,323" id="Line-4-Copy" stroke="#7ABA00" stroke-width="2" stroke-linecap="square"></path>
+                        <path d="M48.0273438,6.5 L59.0273438,6.5" id="Line-4-Copy-4" stroke="#FFC107" stroke-width="2" stroke-linecap="square"></path>
+                        <text id="0" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="12" font-weight="normal" fill="#000000">
+                            <tspan x="36.616" y="320">0</tspan>
+                        </text>
+                        <text id="45" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="12" font-weight="normal" fill="#000000">
+                            <tspan x="30.2593437" y="164.615234">45</tspan>
+                        </text>
+                        <text id="90" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="12" font-weight="normal" fill="#000000">
+                            <tspan x="30.2593437" y="9.446">90</tspan>
+                        </text>
+                    </g>
+                    <rect id="Rectangle-10-Copy" fill="#7ABA00" x="83" y="221.22168" width="8" height="157.27832"></rect>
+                    <rect id="thin-copy" fill="#FFC107" transform="translate(87.250000, 144.250000) rotate(-90.000000) translate(-87.250000, -144.250000) " x="3" y="140.25" width="168.5" height="8"></rect>
+                    <text id="Latest:-54.5-Hz" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="12" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="50.2013437" y="27.234375">Latest: 54.5 Hz</tspan>
+                    </text>
+                    <text id="Frequency" font-family="GEInspiraSans-Bold, GE Inspira Sans" font-size="12" font-weight="bold" fill="#000000">
+                        <tspan x="59.0393438" y="11.234375">Frequency</tspan>
+                    </text>
+                </g>
+                <g id="Group" transform="translate(609.294922, 253.005859)"></g>
+            </g>
+            <g id="3/4-width" transform="translate(151.000000, 264.000000)">
+                <g id="Group-5" transform="translate(612.500000, 0.000000)">
+                    <text id="IPR-Curve" font-family="GEInspiraSans-Bold, GE Inspira Sans" font-size="14" font-weight="bold" fill="#2E546D">
+                        <tspan x="20" y="25.507">IPR Curve</tspan>
+                    </text>
+                    <path d="M30,120 C54.8571149,122.931372 160.734018,140.541192 198.102564,163.719165 C228.940171,182.8463 246.239316,208.273245 250,240" id="Path-2" stroke="#7DA7C3" stroke-width="2"></path>
+                    <polyline id="Line-Copy-2" stroke="#2E546D" stroke-linecap="square" points="30 60 30 260 270 260"></polyline>
+                    <circle id="Oval-3" fill="#DE5288" cx="125" cy="113.542969" r="6"></circle>
+                    <text id="Flow-Pressure-(psia)" transform="translate(17.500000, 160.000000) rotate(-90.000000) translate(-17.500000, -160.000000) " font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="12" font-weight="normal" fill="#7DA7C3">
+                        <tspan x="-32.57" y="161.5">Flow Pressure (psia)</tspan>
+                    </text>
+                    <text id="Flow-Rate-(stb/d)" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="12" font-weight="normal" fill="#7DA7C3">
+                        <tspan x="107.46" y="279">Flow Rate (stb/d)</tspan>
+                    </text>
+                </g>
+                <g id="Group-4" transform="translate(306.500000, 0.000000)">
+                    <path d="M30,94.5 C32.1538462,145.843661 98.8205128,186.368479 230,216.074455 L60,216.074455 L90,239.5" id="Path-2" stroke="#7DA7C3" stroke-width="2"></path>
+                    <polyline id="Line-Copy" stroke="#2E546D" stroke-linecap="square" points="30 60 30 260 270 260"></polyline>
+                    <rect id="Rectangle-8" fill="#444444" transform="translate(145.000000, 241.514719) rotate(45.000000) translate(-145.000000, -241.514719) " x="139" y="235.514719" width="12" height="12"></rect>
+                    <rect id="Rectangle-9" fill="#C47A13" x="39.5" y="230" width="6" height="30"></rect>
+                    <circle id="Oval-3" fill="#6FC9FA" cx="30" cy="94.5" r="6"></circle>
+                    <circle id="Oval-3-Copy" fill="#A475ED" cx="233" cy="215.84375" r="6"></circle>
+                    <circle id="Oval-3-Copy-2" fill="#7ABA00" cx="60.9589844" cy="215.84375" r="6"></circle>
+                    <circle id="Oval-3-Copy-3" fill="#E28D17" cx="90.9589844" cy="239.75" r="6"></circle>
+                    <text id="True-Vertical-Depth" transform="translate(17.500000, 160.000000) rotate(-90.000000) translate(-17.500000, -160.000000) " font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="12" font-weight="normal" fill="#7DA7C3">
+                        <tspan x="-39.458" y="161.5">True Vertical Depth (ft)</tspan>
+                    </text>
+                    <text id="Pressure-(psig)" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="12" font-weight="normal" fill="#7DA7C3">
+                        <tspan x="113.304" y="279">Pressure (psig)</tspan>
+                    </text>
+                    <text id="Gradient-Curve" font-family="GEInspiraSans-Bold, GE Inspira Sans" font-size="14" font-weight="bold" fill="#2E546D">
+                        <tspan x="20" y="25.507">Gradient Curve</tspan>
+                    </text>
+                </g>
+                <g id="Group-3" transform="translate(0.250000, 0.000000)">
+                    <path d="M30,120 C70,120 73.8944332,148.890548 99.4493946,140.541683 C174.875485,115.899804 230,240 230,240" id="data-line-operating---$gray5" stroke="#7DA7C3" stroke-width="2"></path>
+                    <polyline id="Line" stroke="#2E546D" stroke-linecap="square" points="30 60 30 260 270 260"></polyline>
+                    <circle id="Oval-3" fill="#DE5288" cx="187" cy="174" r="6"></circle>
+                    <text id="Head-(ft)" transform="translate(17.500000, 160.000000) rotate(-90.000000) translate(-17.500000, -160.000000) " font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="12" font-weight="normal" fill="#7DA7C3">
+                        <tspan x="-4.382" y="161.5">Head (ft)</tspan>
+                    </text>
+                    <text id="Flow-Rate-(rb/d)" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="12" font-weight="normal" fill="#7DA7C3">
+                        <tspan x="110.136" y="279">Flow Rate (rb/d)</tspan>
+                    </text>
+                    <text id="Variable-Speed-Perfo" font-family="GEInspiraSans-Bold, GE Inspira Sans" font-size="14" font-weight="bold" fill="#2E546D">
+                        <tspan x="20" y="25.507">Variable Speed Performance Curve</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="sidebar" transform="translate(1071.000000, 238.000000)">
+                <rect id="Rectangle-3-Copy-20" fill="#3A6988" x="0.875" y="0" width="153.125" height="780"></rect>
+                <text id="EDISON-WELL-1A-Funct" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="14" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="10.875" y="41">EDISON WELL 1A</tspan>
+                    <tspan x="10.875" y="55" font-family="GEInspiraSans-Bold, GE Inspira Sans" font-weight="bold">Functional User </tspan>
+                    <tspan x="10.875" y="71" line-spacing="21"></tspan>
+                    <tspan x="10.875" y="92">MAKE</tspan>
+                    <tspan x="10.875" y="106" font-family="GEInspiraSans-Bold, GE Inspira Sans" font-weight="bold">—</tspan>
+                    <tspan x="22.075" y="106"></tspan>
+                    <tspan x="10.875" y="122"></tspan>
+                    <tspan x="10.875" y="136">ASSET TYPE</tspan>
+                    <tspan x="10.875" y="150" font-family="GEInspiraSans-Bold, GE Inspira Sans" font-weight="bold">Well</tspan>
+                    <tspan x="39.603" y="150"></tspan>
+                    <tspan x="10.875" y="166" line-spacing="21"></tspan>
+                    <tspan x="10.875" y="187">ANALYSIS TYPE</tspan>
+                    <tspan x="10.875" y="201" font-family="GEInspiraSans-Bold, GE Inspira Sans" font-weight="bold">Template</tspan>
+                    <tspan x="70.837" y="201"></tspan>
+                    <tspan x="10.875" y="217" line-spacing="21"></tspan>
+                    <tspan x="10.875" y="238">APPLIED TO</tspan>
+                    <tspan x="10.875" y="252" font-family="GEInspiraSans-Bold, GE Inspira Sans" font-weight="bold">Just Asset</tspan>
+                    <tspan x="77.711" y="252"></tspan>
+                    <tspan x="10.875" y="268" line-spacing="21"></tspan>
+                    <tspan x="10.875" y="289">PUBLISHED TO</tspan>
+                    <tspan x="10.875" y="303" font-family="GEInspiraSans-Bold, GE Inspira Sans" font-weight="bold">Public Template</tspan>
+                </text>
+                <text id="MANUFACTURER-ESP-MOD" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="14" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="10.875" y="412.246781">MANUFACTURER</tspan>
+                    <tspan x="10.875" y="426.246781" font-family="GEInspiraSans-Bold, GE Inspira Sans" font-weight="bold">ESP</tspan>
+                    <tspan x="10.875" y="443.246781" font-family="GEInspiraSans-Bold, GE Inspira Sans" font-weight="bold" line-spacing="21"></tspan>
+                    <tspan x="10.875" y="463.246781">MODEL</tspan>
+                    <tspan x="54.457" y="463.246781" font-family="GEInspiraSans-Bold, GE Inspira Sans" font-weight="bold"></tspan>
+                    <tspan x="10.875" y="477.246781" font-family="GEInspiraSans-Bold, GE Inspira Sans" font-weight="bold">1500</tspan>
+                    <tspan x="10.875" y="494.246781" font-family="GEInspiraSans-Bold, GE Inspira Sans" font-weight="bold" line-spacing="21"></tspan>
+                    <tspan x="10.875" y="514.246781">SERIES</tspan>
+                    <tspan x="51.601" y="514.246781" font-family="GEInspiraSans-Bold, GE Inspira Sans" font-weight="bold"></tspan>
+                    <tspan x="10.875" y="528.246781" font-family="GEInspiraSans-Bold, GE Inspira Sans" font-weight="bold">TE</tspan>
+                    <tspan x="10.875" y="545.246781" font-family="GEInspiraSans-Bold, GE Inspira Sans" font-weight="bold" line-spacing="21"></tspan>
+                    <tspan x="10.875" y="565.246781">STAGES</tspan>
+                    <tspan x="56.907" y="565.246781" font-family="GEInspiraSans-Bold, GE Inspira Sans" font-weight="bold"></tspan>
+                    <tspan x="10.875" y="579.246781" font-family="GEInspiraSans-Bold, GE Inspira Sans" font-weight="bold">68</tspan>
+                </text>
+            </g>
+            <g id="casing" transform="translate(39.300112, 211.010760)">
+                <path d="M97.5316643,855.552106 L97.5316643,17.0121277 C97.5316643,27.5358044 75.6943246,36.0698544 48.7658321,36.0698544 C21.8373396,36.0698544 4.54747351e-13,27.5358044 4.54747351e-13,17.0121277 L4.54747351e-13,855.552106 C4.54747351e-13,845.024617 21.8373396,836.494379 48.7658321,836.494379 C75.6943246,836.494379 97.5316643,845.024617 97.5316643,855.552106" id="fill" fill="#3A6988"></path>
+                <ellipse id="Oval-2" fill="#FFFFFF" cx="48.7658321" cy="18.7219517" rx="48.7658321" ry="18.5441766"></ellipse>
+                <g id="Oval-2-Copy-2">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
+                    <ellipse stroke="#2E546D" stroke-width="1" cx="48.7658321" cy="853.552106" rx="48.2658321" ry="18.0441766"></ellipse>
+                </g>
+            </g>
+            <g id="smart-schematic" transform="translate(55.585833, 220.371094)"></g>
+            <g id="presets" transform="translate(30.000000, 147.000000)">
+                <rect id="title-1" fill="#0091BF" x="0" y="0" width="552" height="53" rx="4"></rect>
+                <text id="title-copy" font-family="GEInspiraSans-Bold, GE Inspira Sans" font-size="14" font-weight="bold" line-spacing="16" fill="#FFFFFF">
+                    <tspan x="17" y="23">Title 1</tspan>
+                    <tspan x="17" y="39" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-weight="normal">An additional 372.5 stb/d is possible by decreasing</tspan>
+                    <tspan x="311.126" y="39"> WHP to 295.89 psig.</tspan>
+                </text>
+                <rect id="title-2" fill="#0091BF" x="555" y="0" width="552" height="53" rx="4"></rect>
+                <text id="title-copy" font-family="GEInspiraSans-Bold, GE Inspira Sans" font-size="14" font-weight="bold" line-spacing="16" fill="#FFFFFF">
+                    <tspan x="572" y="23">Title 2</tspan>
+                    <tspan x="572" y="39" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-weight="normal">An additional 372.5 stb/d is possible by decreasing</tspan>
+                    <tspan x="866.126" y="39"> WHP to 295.89 psig.</tspan>
+                </text>
+                <g id="open" transform="translate(1110.000000, 0.000000)">
+                    <rect id="Rectangle-10-Copy-11" fill="#0091BF" x="0" y="0" width="51" height="53" rx="4"></rect>
+                    <polyline id="Path-3-Copy-2" stroke="#FFFFFF" stroke-width="2" points="22 15 34.0415946 27.0415946 22.4494875 38.6337017"></polyline>
+                </g>
+            </g>
+            <g id="card-header" transform="translate(0.000000, 60.000000)">
+                <rect id="Rectangle-3-Copy-2" fill="#3A6988" x="0" y="0.44140625" width="1225" height="56"></rect>
+                <g id="breadcrumb" transform="translate(191.000000, 13.500000)">
+                    <g id="connector-03" transform="translate(378.312500, 11.500000)"></g>
+                    <g id="connector-02" transform="translate(299.312500, 11.500000)"></g>
+                    <g id="connector-01" transform="translate(179.312500, 5.500000)">
+                        <path d="M90.9796822,10 L110.979682,10" id="Line-3-Copy-2" stroke="#0091BF" stroke-width="2" stroke-linecap="square"></path>
+                        <path d="M201,10 L221.174995,10" id="Line-3-Copy-3" stroke="#0091BF" stroke-width="2" stroke-linecap="square"></path>
+                        <rect id="Rectangle-6" fill="#FFFFFF" x="0.979682167" y="0.11328125" width="90" height="20" rx="10"></rect>
+                        <text id="9:29AM" font-family="GEInspiraSans-Bold, GE Inspira Sans" font-size="12" font-weight="bold" line-spacing="16" fill="#2E546D">
+                            <tspan x="25.6036822" y="12.1132812">9:29AM</tspan>
+                        </text>
+                    </g>
+                    <g id="save" transform="translate(913.000000, 5.000000)">
+                        <rect id="Rectangle-6" fill="#0091BF" x="0.979682167" y="0.11328125" width="90" height="20" rx="10"></rect>
+                        <text id="SAVE" font-family="GEInspiraSans-Bold, GE Inspira Sans" font-size="12" font-weight="bold" line-spacing="16" fill="#FFFFFF">
+                            <tspan x="31.5196822" y="12.1132812">SAVE</tspan>
+                        </text>
+                    </g>
+                    <g id="node-03" transform="translate(400.312500, 5.000000)">
+                        <rect id="Rectangle-6" fill="#FFFFFF" x="0" y="0.61328125" width="90" height="20" rx="10"></rect>
+                        <text id="10:02AM" font-family="GEInspiraSans-Bold, GE Inspira Sans" font-size="12" font-weight="bold" line-spacing="16" fill="#2E546D">
+                            <tspan x="21.432" y="12.6132812">10:02AM</tspan>
+                        </text>
+                    </g>
+                    <g id="node-02" transform="translate(290.312500, 5.000000)">
+                        <rect id="Rectangle-6" fill="#FFFFFF" x="0" y="0.61328125" width="90" height="20" rx="10"></rect>
+                        <text id="9:45AM" font-family="GEInspiraSans-Bold, GE Inspira Sans" font-size="12" font-weight="bold" line-spacing="16" fill="#2E546D">
+                            <tspan x="24.624" y="12.6132812">9:45AM</tspan>
+                        </text>
+                    </g>
+                    <g id="node-01" transform="translate(159.312500, 5.000000)"></g>
+                    <g id="reset" transform="translate(70.312500, 5.000000)">
+                        <rect id="Rectangle-6" fill="#FFFFFF" x="0" y="0.61328125" width="90" height="20" rx="10"></rect>
+                        <text id="RESET" font-family="GEInspiraSans-Bold, GE Inspira Sans" font-size="12" font-weight="bold" line-spacing="16" fill="#0091BF">
+                            <tspan x="27.654" y="12.6132812">RESET</tspan>
+                        </text>
+                    </g>
+                    <g id="bar-separator" transform="translate(0.312500, 0.000000)" stroke="#FFFFFF" stroke-linecap="square">
+                        <path d="M40,0 L40,30" id="Line-2"></path>
+                    </g>
+                    <g id="scroll-right" transform="translate(878.996094, 0.000000)" stroke="#FFFFFF" stroke-linecap="square">
+                        <path d="M1,0 L1,30" id="Line-2-Copy"></path>
+                    </g>
+                </g>
+                <text id="ESP-SANDBOX-07/17/20" font-family="GEInspiraSans-Bold, GE Inspira Sans" font-size="14" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="30" y="34.007">ESP SANDBOX        </tspan>
+                    <tspan x="145.304" y="34.007" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-weight="normal">07/17/2017</tspan>
+                </text>
+            </g>
+            <g id="header">
+                <rect id="Rectangle-3" fill="#E2E8ED" x="0" y="0" width="1225" height="60"></rect>
+                <text id="Bakken-Field" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="10" font-weight="normal" fill="#2C404C">
+                    <tspan x="30" y="42">Bakken Field</tspan>
+                </text>
+                <text id="EDISON-WELL-1A" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="14" font-weight="normal" fill="#2C404C">
+                    <tspan x="30" y="27">EDISON WELL 1A</tspan>
+                </text>
+                <mask id="mask-9" fill="white">
+                    <use xlink:href="#path-8"></use>
+                </mask>
+                <use id="fa-caret-down" fill="#425866" xlink:href="#path-8"></use>
+            </g>
+        </g>
+    </g>
+</svg>
