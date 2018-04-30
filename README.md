@@ -9,7 +9,7 @@ Framer prototype works on Chrome, Firefox and Safari
 ## Description
 One of the most common and cost effective secondary recovery techniques used in the industry is Electrical Submersible Pump (ESP). With dynamic and changing operating environments, it is essential to continuously monitor and diagnose ESP operating conditions, leveraging real time information received from the pump, to optimize its run life and avoid premature failures.
 
-![screen](http://edmonterrubio.com/github/intellistreamDashboard.jpg)
+![screen](http://edmonterrubio.com/github/espParticles.jpg)
 
 ## Objective
 This protoype was set up to test an alternative view in data visualization to oil and water flow from an electrical submersible pump during asset optimization. ESP pumps have the ability to pump very large volumes of fluid, by decreasing the bottom hole pressure allowing oil to flow from the reservoir and adding energy from the pump and electric motor to produce the fluid to surface.
